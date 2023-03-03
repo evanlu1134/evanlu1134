@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evan Lu <img src="https://cdn3.emoji.gg/emojis/8632-hamstergamer.gif" width="40px" height="40px" alt="HamsterGamer"></h1>
-<h3 align="center">A passionate Software Engineer in Game Making <img src="https://cdn3.emoji.gg/emojis/6769-blob-controller.gif" width="64px" height="64px" alt="blob_controller"> </h3>
+<h3 align="center">A passionate Software Engineer in Game Making <img src="https://cdn3.emoji.gg/emojis/6769-blob-controller.gif" width="40px" height="40px" alt="blob_controller"> </h3>
 
 - 🔭 I’m currently working on my **Game Projects**
 
