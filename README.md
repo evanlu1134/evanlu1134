@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Evan Lu <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Evan Lu <img height="40" src="[https://emoji.gg/assets/emoji/7333-parrotdance.gif](https://cdn3.emoji.gg/emojis/8632-hamstergamer.gif)"></h1>
 <h3 align="center">A passionate Software Engineer in Game Making</h3>
 
 - 🔭 I’m currently working on my **Game Projects**
