@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **Game Projects**
 
-- <a href="https://emoji.gg/emoji/9998-anyascared"><img src="https://cdn3.emoji.gg/emojis/9998-anyascared.png" width="64px" height="64px" alt="anyaScared"></a> I’m currently learning **Blender**
+- <img src="https://cdn3.emoji.gg/emojis/9998-anyascared.png" width="15px" height="16px" alt="anyaScared"></a> I’m currently learning **Blender**
 
 - 📫 How to reach me: **evanlu1134@gmail.com**
 
