@@ -3,18 +3,29 @@
 
 - 🔭 I’m currently working on my **Game Projects**
 
-- <img src="https://cdn3.emoji.gg/emojis/9998-anyascared.png" width="24px" height="20px" alt="anyaScared"> I’m currently trying to learn **Blender**
+- <img src="https://cdn3.emoji.gg/emojis/9998-anyascared.png" width="24px" height="20px" alt="anyaScared"> I’m trying to learn **Blender** and **C++**
 
 - 📫 How to reach me: **evanlu1134@gmail.com**
 
+- :hearts: Learn more about me: [My Resume](https://docs.google.com/document/d/10YBmcGsMxdpTZZLpwUJWapX7CRBzvHFXlqpxlTNfg40/edit?usp=sharing)
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-
+  
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evan-lu-/)
+[![image](https://img.shields.io/badge/-Itcho.io-red?style=for-the-badge&logo=Itch.io&logoColor=white)](https://itch.io/profile/evanlu1134)
+[![image](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@evanlu1134)
 
 
-<h3 align="left">Experience Techngoloies</h3>
+
+<h3 align="left">Resources and Techngoloies</h3>
 <p align="left">
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
+  </a>
+   <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="REACT" width="40" height="40"/>
+  </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
