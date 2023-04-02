@@ -20,6 +20,9 @@
 
 <h3 align="left">Resources and Techngoloies</h3>
 <p align="left">
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
+  </a>
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
   </a>
