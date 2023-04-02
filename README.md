@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Evan Lu <img src="https://cdn3.emoji.gg/emojis/8632-hamstergamer.gif" width="40px" height="40px" alt="HamsterGamer"></h1>
 <h3 align="center">A passionate Software Engineer in Game Making <img src="https://cdn3.emoji.gg/emojis/6769-blob-controller.gif" width="40px" height="40px" alt="blob_controller"> </h3>
 
+<br>
+
 - 🔭 I’m currently working on my **Game Projects**
 
 - <img src="https://cdn3.emoji.gg/emojis/9998-anyascared.png" width="24px" height="20px" alt="anyaScared"> I’m trying to learn **Blender** and **C++**
@@ -17,9 +19,17 @@
 [![image](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@evanlu1134)
 
 
-
-<h3 align="left">Resources and Techngoloies</h3>
+<br>
+<br>
+  
+<h3 align="left"> 
+<img src="https://cdn3.emoji.gg/emojis/8720-rainbowconfetti.gif" width="40px" height="40px" alt="RainbowConfetti">
+<bold> Resources and Techngoloies </bold>
+<img src="https://cdn3.emoji.gg/emojis/8720-rainbowconfetti.gif" width="40px" height="40px" alt="RainbowConfetti">
+</h3>
+  
 <p align="left">
+  <br>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
   </a>
