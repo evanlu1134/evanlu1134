@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my **Game Projects**
 
-- <img src="https://cdn3.emoji.gg/emojis/9998-anyascared.png" width="24px" height="20px" alt="anyaScared"> I’m trying to learn **Unreal Engine**, **Python** and **C++**
+- <img src="https://cdn3.emoji.gg/emojis/9998-anyascared.png" width="24px" height="20px" alt="anyaScared"> I’m trying to learn **Unreal Engine**, **Python**, and **C++**
 
 - 📫 How to reach me: **evanlu1134@gmail.com**
 
